@@ -88,7 +88,7 @@ Read more about the [pagination plugin](http://jekyllrb.com/docs/pagination/).
 
 ## Credit
 
-- Portfolio Template, https://github.com/jamigibbs
+- Portfolio Template, https://github.com/jamigibbs/phantom
 
 - Bootstrap, http://getbootstrap.com/, (C) 2011 - 2016 Twitter, Inc., [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
